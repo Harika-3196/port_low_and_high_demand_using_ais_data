@@ -1,0 +1,5 @@
+pandas==2.2.2
+plotly==5.22.0
+psycopg2==2.9.9
+kaleido==0.2.1
+py_test==8.2.1
