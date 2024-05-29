@@ -138,5 +138,20 @@ Contains  unit  tests  for  demand_identification.py.
 see  inference.py in the folder or see the notebook test_inference.py
 
 ## Outputs
-output of results in csv are saved in output folder called outfile_file_after_analysis
-output of plots are saved in plots_folder 
+The output of results in CSV are saved in an output folder called outfile_file_after_analysis
+
+
+## Plotly Graphs in plots_folder
+
+## Hour Shift Variance:
+
+The visualizations created for hour shifts reveal significant variance in vessel counts between day 1 and day 2. This indicates that the number of vessels fluctuates considerably over these two days.
+
+## Day Shift Variance 
+
+A new plot has been added to represent the day shift. Although the current dataset includes only two days of data, this plot is prepared for future data additions.
+As more days of data become available, this plot will become more insightful and relevant, providing a broader view of the trends over multiple days.
+
+## Distribution plot
+
+Plot which allows us to see the distribution of vessels.
