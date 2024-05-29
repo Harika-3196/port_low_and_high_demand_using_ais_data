@@ -55,11 +55,13 @@ This project involves analyzing port data and Automatic Identification System (A
 ##  1. Clone the Repository
 
 git  clone  https://github.com/your-username/port-data-analysis.git
+
 cd  port-data-analysis
 
 ## 2. Create Virtual Environment and Activate
 
 python3  -m  venv  venv
+
 source  venv/bin/activate  #in mac
 
 ## 3.Install Dependencies
